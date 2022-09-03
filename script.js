@@ -63,10 +63,6 @@ function init() {
 				animate();
   });
 
-
-
-  
-
   // Dome
   var domeGeometry = new THREE.IcosahedronGeometry(700, 1);
   var domeMaterial = new THREE.MeshPhongMaterial({
